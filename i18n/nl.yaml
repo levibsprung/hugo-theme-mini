@@ -45,8 +45,9 @@ postsOlder:
 
 poweredBy:
   other: >-
-    Gemaakt met <a href='http://www.gohugo.io/'>Hugo</a> Thema door <a
-    href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+    Gemaakt met <a href='http://www.gohugo.io/'>Hugo</a> met behulp van
+    <a href='https://github.com/levibsprung/hugo-theme-mini'>mijn fork</a> van het Mini-theme van 
+    <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
 
 publishDateShort:
   other: >-

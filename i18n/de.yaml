@@ -43,8 +43,8 @@ postsOlder:
 
 poweredBy:
   other: >-
-    Publiziert mit <a href='http://www.gohugo.io/'>Hugo</a> Theme von <a
-    href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
-
+    Publiziert mit <a href='http://www.gohugo.io/'>Hugo</a> met
+    <a href='https://github.com/levibsprung/hugo-theme-mini'>meinem Fork</a> des Mini-Themes von 
+    <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
 publishDateShort:
   other: '{{ .PublishDate.Format "02.01." }}'

@@ -43,8 +43,9 @@ postsOlder:
 
 poweredBy:
   other: >-
-    Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a
-    href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+    Kørt med <a href='http://www.gohugo.io/'>Hugo</a> med
+    <a href='https://github.com/levibsprung/hugo-theme-mini'>min fork</a> af Mini-temaet fra 
+    <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
 
 publishDateShort:
   other: '{{ .PublishDate.Format "01-02" }}'
